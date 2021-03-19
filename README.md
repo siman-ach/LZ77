@@ -49,7 +49,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 ```
 ## Test Files (Examples)
-The folder called 'test_files', contains a few test examples: 'othello_eng.txt' which has been compressed to 'output.txt', and has been decompressed back to its original size in 'decompressed.txt'
+The folder called 'test_files', contains a few test examples: 'othello_eng.txt' which has been compressed to 'output.txt', and has been decompressed back to its original size in 'decompressed.txt'. This file also contains other files which were used during testing (e.g.) Book - Charles Darwin - Natural Selection, can be found in three different languages and tested with the algorithm (charts shown with results in Literature Review)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
